@@ -1,24 +1,50 @@
 # 👋 Hi, I'm Lisa Thierry
 
-🎓 Aspiring Junior Software Engineer based in Atlanta, GA, with a B.S. in Computer Science (Aug 2024). I’m passionate about solving real-world problems through code, data, and automation.
+I’m an IT Support & Data Center Technician in training based in Georgia, building hands‑on infrastructure projects that strengthen my skills in Linux, networking, virtualization, and troubleshooting. My goal is to transition into data center and IT operations roles where I can apply real‑world technical skills and continue growing in the field.
 
-💡 Currently completing the Google Data Analytics Certificate and building hands-on projects in Python, SQL, and React. I’ve earned certifications in:
-- AWS Cloud Practitioner
-- PCAP Certified Python Developer
-- Amazon Junior Software Developer (Coursera)
-- React & Python (Udemy)
+---
 
-🔧 My technical toolkit includes:
-- Languages: Python, Java, C#, JavaScript, SQL
-- Web: React, HTML/CSS, REST APIs
-- Cloud & IT: AWS, Active Directory, IT Support, OpenAI GPT
+## 🔧 Technical Focus Areas
+- **Linux Administration** (Ubuntu Server, CLI, system updates, permissions, services)
+- **Networking** (IP addressing, routing, NAT, host‑only networks, internal networks)
+- **Virtualization** (VirtualBox, multi‑adapter networking, VM provisioning)
+- **IT Support Fundamentals** (hardware, OS troubleshooting, documentation)
+- **Automation & Scripting** (Bash, Python basics)
 
-📁 Featured Projects:
-- **Budget Tracker CLI Tool** – Python-based app to manage monthly expenses and visualize savings
-- **Violin Practice Logger** – C# desktop app to track practice sessions and progress
-- **Customer Billing Dashboard** – Python + Pandas project analyzing payment behavior
+---
 
-🌱 I’m actively seeking entry-level software developer roles where I can grow through mentorship and contribute to scalable, impactful solutions. I’m especially excited about opportunities with IBM and Dev10.
+## 🏗️ Current Project: Mini Data Center Lab
+I’m building a multi‑VM homelab that simulates real data center environments:
 
-📫 Let’s connect!  
-[LinkedIn](https://www.linkedin.com/in/lisa-thierry2697b0318) | [GitHub](https://github.com/armygirl4040) | lisa.thierry321@gmail.com
+- Virtualized Linux servers  
+- NAT, Host‑Only, and Internal network segmentation  
+- Static IP assignments  
+- SSH management network  
+- Service deployment and monitoring  
+- Documentation of each phase in GitHub  
+
+This project demonstrates practical skills in infrastructure, troubleshooting, and system design.
+
+---
+
+## 📁 Featured Repositories
+- **Mini Data Center Lab** – Multi‑VM environment with Linux, networking, and virtualization  
+- **IT Support Practice Projects** – Troubleshooting, scripting, and system configuration exercises  
+- **Linux Notes & Commands** – My personal reference for daily Linux administration  
+
+---
+
+## 🎯 Career Goals
+I’m actively preparing for roles such as:
+
+- **IT Support Technician**  
+- **Data Center Technician**  
+- **Infrastructure / Operations Technician**  
+
+I’m focused on hands‑on learning, building real environments, and documenting everything I create.
+
+---
+
+## 📫 Connect With Me
+- **LinkedIn:** linkedin.com/in/lisathierry  
+- **Email:** lisa.thierry321@gmail.com
